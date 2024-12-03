@@ -1,4 +1,4 @@
-{ "Ba": [
+{ "Na": [
         { "question": "Guess the region", "answer": ["Erongo"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Namibia-Quiz/refs/heads/main/NA01.png"},
         { "question": "Guess the region", "answer": ["Hardap"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Namibia-Quiz/refs/heads/main/NA02.png"},
         { "question": "Guess the region", "answer": ["Kavango East"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Namibia-Quiz/refs/heads/main/NA03.png"},
